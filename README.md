@@ -1,73 +1,33 @@
-# Welcome to your Lovable project
+# ♻️ JunkJudge AI
 
-## Project info
+**JunkJudge AI** is a cutting-edge platform dedicated to revolutionizing waste management through artificial intelligence.  
+Our mission is to provide innovative solutions for **waste classification and recycling**, helping businesses and communities reduce their environmental footprint.  
 
-**URL**: https://lovable.dev/projects/48df00dc-f557-45c6-9fa8-f18b83f39318
+Founded in 2023, JunkJudge AI combines **state-of-the-art machine learning models** with **user-friendly interfaces** to make waste classification accessible to everyone.  
+Our team is passionate about **sustainability and technology**, and we strive to create a **cleaner, greener future**.  
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Features
+- 🔍 AI-powered waste classification  
+- ♻️ Recycling-focused recommendations  
+- 🌱 Sustainability-driven design  
+- 💻 Modern, responsive web interface  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/48df00dc-f557-45c6-9fa8-f18b83f39318) and start prompting.
+## 🛠️ Tech Stack
+- [Vite](https://vitejs.dev/) – Fast frontend build tool  
+- [React](https://react.dev/) – UI framework  
+- [TypeScript](https://www.typescriptlang.org/) – Type-safe development  
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first styling  
+- [shadcn/ui](https://ui.shadcn.com/) – Component library  
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ⚡ Installation & Setup
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
+Clone the repository:
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/48df00dc-f557-45c6-9fa8-f18b83f39318) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+git clone https://github.com/PalashHemade/JunkJudge.git
+cd JunkJudge
